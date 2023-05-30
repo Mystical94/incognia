@@ -137,7 +137,7 @@ export function Main() {
 
         <div className="footer">
           <a
-            href="https://youtu.be/Zu2vLWgYd4U"
+            href="https://www.youtube.com/"
             rel="noreferrer"
             target="_blank"
           >
