@@ -13,7 +13,7 @@ Incognia enables users to receive funds on Gnosis Blockchain by using non-custod
 - However, they require specialized tools or come at a higher cost than direct transfers, leaving a gap between expensive, complex solutions and non-private transfers.
 - Recently, Vitalik published an article titled "An Incomplete Guide to Stealth Addresses," which provided missing pieces of a simple yet effective solution for anonymous transactions, at least for the receiving party.
 - Inspired by this idea we decided to create a user-friendly tool utilizing stealth addresses. We chose Gnosis as the initial network for its implementation due to its fast and affordable transactions.
-- The name Incognia is chosen as users will be in incognito mode while doing transactions 😉.
+- The name Incognia is chosen as users will be in incognito mode while doing transactions 😎.
 
 ### ✒ What it does
 - Incognia uses an elliptic curve key pair, with its public part serving as a Incognia ID (base58-encoded) a meta-address not tied to any actual blockchain address.
