@@ -137,19 +137,6 @@ export function Main() {
 
         <div className="footer">
           <a
-            href="https://vitalik.eth.limo/general/2023/01/20/stealth.html"
-            rel="noreferrer"
-            target="_blank"
-          >
-            <span>
-              How it works &nbsp;
-              <FontAwesomeIcon
-                icon={faArrowRight}
-                transform={{ rotate: -45 }}
-              />
-            </span>
-          </a>
-          <a
             href="https://www.youtube.com/"
             rel="noreferrer"
             target="_blank"
